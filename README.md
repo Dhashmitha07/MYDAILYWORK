@@ -1,5 +1,6 @@
 # MYDAILYWORK
 This repository contains three machine learning projects I completed as part of my internship with MyDailyWork.
+
 Project 1: Iris Classification
 
 The Iris Classification project aims to develop a model that can accurately classify Iris flowers into different species based on their sepal and petal measurements. This project involves exploring data visualization techniques to understand the distribution of features, handling missing values, and applying machine learning algorithms to classify Iris species.
